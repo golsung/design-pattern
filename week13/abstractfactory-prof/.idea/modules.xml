@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/abstractfactory-prof.iml" filepath="$PROJECT_DIR$/abstractfactory-prof.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mazegame/mazegame.iml" filepath="$PROJECT_DIR$/mazegame/mazegame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mazegame-goffm/mazegame-goffm.iml" filepath="$PROJECT_DIR$/mazegame-goffm/mazegame-goffm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mazegame-simplefm/mazegame-simplefm.iml" filepath="$PROJECT_DIR$/mazegame-simplefm/mazegame-simplefm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newmazegame/newmazegame.iml" filepath="$PROJECT_DIR$/newmazegame/newmazegame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/newmazegame-goffm/newmazegame-goffm.iml" filepath="$PROJECT_DIR$/newmazegame-goffm/newmazegame-goffm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question1/question1.iml" filepath="$PROJECT_DIR$/question1/question1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question2/question2.iml" filepath="$PROJECT_DIR$/question2/question2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question3-factory/question3-factory.iml" filepath="$PROJECT_DIR$/question3-factory/question3-factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question3-strategy/question3-strategy.iml" filepath="$PROJECT_DIR$/question3-strategy/question3-strategy.iml" />
+    </modules>
+  </component>
+</project>

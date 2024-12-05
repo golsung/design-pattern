@@ -1,0 +1,1 @@
+객체를 미리 생성하는 eager initialization 방법

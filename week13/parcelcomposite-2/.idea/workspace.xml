@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0aa4ee1-fbd1-4e5f-9cdf-d12321072ac4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="1k8ox7UsmcyfEnMpUY5XZEaffSM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/chung-insang/Desktop/데스크탑/MyDcouments/강의/design-pattern/13주차/코드/parcelcomposite-2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="parcelcomposite" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-3183f394aec4-8ce719b4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0aa4ee1-fbd1-4e5f-9cdf-d12321072ac4" name="Default Changelist" comment="" />
+      <created>1605091822860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605091822860</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="0" key="#com.intellij.ide.util.MemberChooser" timestamp="1605092029434">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="402" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1605092029434" />
+    <state x="371" y="9" key="FileChooserDialogImpl" timestamp="1605139271850">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="9" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1605139271850" />
+    <state width="1225" height="20" key="GridCell.Tab.0.bottom" timestamp="1605144296219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="20" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605144296219" />
+    <state width="1225" height="20" key="GridCell.Tab.0.center" timestamp="1605144296219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="20" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605144296219" />
+    <state width="1225" height="20" key="GridCell.Tab.0.left" timestamp="1605144296218">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="20" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605144296218" />
+    <state width="1225" height="20" key="GridCell.Tab.0.right" timestamp="1605144296219">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1225" height="20" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605144296219" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mazegame-fm.iml" filepath="$PROJECT_DIR$/mazegame-fm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mazegame1/mazegame1.iml" filepath="$PROJECT_DIR$/mazegame1/mazegame1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mazegame2/mazegame2.iml" filepath="$PROJECT_DIR$/mazegame2/mazegame2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question1/question1.iml" filepath="$PROJECT_DIR$/question1/question1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question2/question2.iml" filepath="$PROJECT_DIR$/question2/question2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question3/question3.iml" filepath="$PROJECT_DIR$/question3/question3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/question4/question4.iml" filepath="$PROJECT_DIR$/question4/question4.iml" />
+    </modules>
+  </component>
+</project>

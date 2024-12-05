@@ -1,0 +1,1 @@
+initialization on demand holder idiom을 이용한 방법

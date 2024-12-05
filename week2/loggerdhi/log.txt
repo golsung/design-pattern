@@ -1,0 +1,10 @@
+2023-08-18 at 10:16:55 KST : owner : insang4 deposit 191101
+2023-08-18 at 10:16:55 KST : owner : insang6 withdraw 337728
+2023-08-18 at 10:16:55 KST : owner : insang0 deposit 93446
+2023-08-18 at 10:16:55 KST : owner : insang3 withdraw 139401
+2023-08-18 at 10:16:55 KST : owner : insang9 withdraw 192024
+2023-08-18 at 10:16:55 KST : owner : insang5 withdraw 411443
+2023-08-18 at 10:16:55 KST : owner : insang2 deposit 294132
+2023-08-18 at 10:16:55 KST : owner : insang1 deposit 249123
+2023-08-18 at 10:16:55 KST : owner : insang7 deposit 11780
+2023-08-18 at 10:16:55 KST : owner : insang8 withdraw 353574
